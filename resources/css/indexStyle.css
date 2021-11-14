@@ -769,7 +769,7 @@ article h3 {
   line-height: 1.5em;
 }
 
-.slideshow-container span {
+.projects .slideshow-container span {
   font-size: 18px;
   font-weight: bold;
   color: var(--support3-color);
